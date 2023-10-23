@@ -1,5 +1,4 @@
 ﻿streamlit
 base64
 pandas
-scikit-learn
-sklearn
+scikit-learn==1.2.2
